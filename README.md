@@ -25,9 +25,6 @@ Building responsive and scalable web applications with modern technologies.
 - Email: surbhisrivastava128@gmail.com
 - LinkedIn: [Surbhi Srivastava](https://linkedin.com/in/surbhi-srivastava-65452a283)
 
-### ⚡ Fun Fact
-I manifested my first internship from a random wedding invitation and I'm a firm believer in the Law of Assumption ✨
-
 ---
 
 *"Turning ideas into clean, functional, and beautiful web applications"* 
